@@ -2,10 +2,10 @@
 <h3 align="center">Software Engineer || BackEnd Engineer || Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikar700&label=Profile%20views&color=0e75b6&style=flat" alt="ikar700" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikar700" alt="ikar700" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ol_cornelius" target="blank"><img src="https://img.shields.io/twitter/follow/ol_cornelius?logo=twitter&style=for-the-badge" alt="ol_cornelius" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **wellnessflow**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **fasaeolubadejo@gmail.com cornex111@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15Vg4ir2YMhKc37DSpXW8H8Ay0NS-gm49/view?usp=sharing](https://drive.google.com/file/d/15Vg4ir2YMhKc37DSpXW8H8Ay0NS-gm49/view?usp=sharing)
+- 📄 Know about my experiences👉🏽 [Resume](https://drive.google.com/file/d/15Vg4ir2YMhKc37DSpXW8H8Ay0NS-gm49/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
