@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 Actively open to **Software Engineer and Intern roles**
+- 👯 Actively open to **Software Engineer roles**
 
 - 💬 Ask me about **Django, Python, Solidity, Rust**
 
