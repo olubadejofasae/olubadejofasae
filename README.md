@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/ol_cornelius" target="blank"><img src="https://img.shields.io/twitter/follow/ol_cornelius?logo=twitter&style=for-the-badge" alt="ol_cornelius" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **wellnessflow**
+- 🔭 I’m currently working at **Kukuklcan**
 
 - 🌱 I’m currently learning **Rust**
 
