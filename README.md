@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olubadejo Cornelius Fasae</h1>
-<h3 align="center">Software Engineer || BackEnd Engineer || Blockchain Developer</h3>
+<h3 align="center">Software Engineer || Backend Engineer || Blockchain Developer || Smart Contract Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olubadejofasae&label=Profile%20views&color=0e75b6&style=flat" alt="olubadejofasae" /> </p>
 
@@ -11,9 +11,11 @@
 
 - 🔭 I'm currently working at **Kukulcan**
 
+- 🛡️ I audit smart contracts as a warden on **Code4rena** — [@bardamu](https://code4rena.com/@bardamu)
+
 - 🌱 I'm currently learning **Rust**
 
-- 👯 Actively open to **Software Engineer roles**
+- 👯 Actively open to **Software Engineer & Security Researcher roles**
 
 - 💬 Ask me about **Django, Python, Solidity, Rust**
 
@@ -25,24 +27,93 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <a href="https://twitter.com/ol_cornelius" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ol_cornelius" height="30" width="40" />
-      </a>
-      <br> Twitter
-    </td>
-    <td align="center" width="80">
       <a href="https://linkedin.com/in/olubadejofasae" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olubadejofasae" height="30" width="40" />
       </a>
       <br> LinkedIn
     </td>
+    <td align="center" width="80">
+      <a href="https://code4rena.com/@bardamu" target="blank">
+        <img align="center" src="https://code4rena.com/logos/c4/c4-logo.svg" alt="bardamu" height="30" width="40" />
+      </a>
+      <br> Code4rena
+    </td>
   </tr>
 </table>
+
+---
+
+<h2 align="left">🛡️ Smart Contract Security Research</h2>
+
+Independent security researcher competing on public audit contests — helping keep high-severity bugs out of production across DeFi, NFT, and cross-chain protocols.
+
+<h3 align="left">🏆 Top Performance</h3>
+
+- **7th place** finish on the **Swivel v3** contest (Code4rena)
+- **4 High-Risk** vulnerabilities discovered across Code4rena competitions
+- **3 Medium-Risk** vulnerabilities identified
+- **7 valid findings** contributing to **10 secured protocols**
+- Active warden on **Code4rena** — [@bardamu](https://code4rena.com/@bardamu)
+
+<h3 align="left">📊 Audit Competition Track Record</h3>
+
+| Protocol | Findings | Placement | Platform | Report |
+|----------|----------|-----------|----------|--------|
+| Swivel v3 | 1M | 🥇 7th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
+| Illuminate | 2H | 17th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
+| Juicebox V2 | 1H, 1M | 20th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
+| Blur Exchange | 1H | 21st | Code4rena | [Profile](https://code4rena.com/@bardamu) |
+| Backd Tokenomics | — | 30th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
+
+> Additional protocols secured: **Connext**, **Fractional**, **Yieldy**, **Axelar Network**, **Golom**.
+
+<h3 align="left">🔍 Vulnerability Breakdown</h3>
+
+```
+Total Valid Findings: 7
+├── High Risk:   4
+├── Medium Risk: 3
+└── Low Risk:    0
+```
+
+<h3 align="left">🎯 Areas of Expertise</h3>
+
+- **DeFi Protocols**: Fixed-income, lending, yield strategies, tokenomics (Swivel, Illuminate, Backd)
+- **NFT & Marketplaces**: Trading logic, order matching, fractionalization (Blur, Golom, Fractional)
+- **Cross-Chain Infrastructure**: Bridges and messaging layers (Connext, Axelar)
+- **Smart Contract Security**: Solidity, access control, reentrancy, accounting/precision bugs
+- **Ethereum & EVM Chains**: EVM mechanics, gas optimization, low-level call safety
+
+<h3 align="left">🤝 Available For</h3>
+
+- **Private Security Audits**: Pre-deployment smart contract reviews
+- **Competition Collaborations**: Teaming up on complex audit contests
+- **Code Reviews**: Targeted assessments of DeFi, NFT, and bridge logic
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
   <tr>
+    <td align="center" width="80">
+      <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+      </a>
+      <br>Solidity
+    </td>
+    <td align="center" width="80">
+      <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
+        <img src="https://book.getfoundry.sh/images/foundry-logo.png" alt="foundry" width="40" height="40"/>
+      </a>
+      <br>Foundry
+    </td>
+    <td align="center" width="80">
+      <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+        <img src="https://hardhat.org/favicon.ico" alt="hardhat" width="40" height="40"/>
+      </a>
+      <br>Hardhat
+    </td>
     <td align="center" width="80">
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -73,6 +144,8 @@
       </a>
       <br>Django
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
@@ -91,8 +164,6 @@
       </a>
       <br>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -123,6 +194,8 @@
       </a>
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="80">
       <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
@@ -141,8 +214,6 @@
       </a>
       <br>Git
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -173,18 +244,6 @@
       </a>
       <br>Heroku
     </td>
-    <td align="center" width="80">
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-      </a>
-      <br>Oracle
-    </td>
-    <td align="center" width="80">
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-      </a>
-      <br>SQL Server
-    </td>
   </tr>
 </table>
 
@@ -195,3 +254,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olubadejofasae&show_icons=true&locale=en" alt="olubadejofasae" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olubadejofasae&" alt="olubadejofasae" /></p>
+
+---
+
+<div align="center">
+
+**"Building backends by day, keeping high-severity bugs out of production by night."** 🛡️
+
+</div>
