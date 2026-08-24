@@ -47,34 +47,6 @@
 
 Independent security researcher competing on public audit contests — helping keep high-severity bugs out of production across DeFi, NFT, and cross-chain protocols.
 
-<h3 align="left">🏆 Top Performance</h3>
-
-- **7th place** finish on the **Swivel v3** contest (Code4rena)
-- **4 High-Risk** vulnerabilities discovered across Code4rena competitions
-- **3 Medium-Risk** vulnerabilities identified
-- **7 valid findings** contributing to **10 secured protocols**
-- Active warden on **Code4rena** — [@bardamu](https://code4rena.com/@bardamu)
-
-<h3 align="left">📊 Audit Competition Track Record</h3>
-
-| Protocol | Findings | Placement | Platform | Report |
-|----------|----------|-----------|----------|--------|
-| Swivel v3 | 1M | 🥇 7th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
-| Illuminate | 2H | 17th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
-| Juicebox V2 | 1H, 1M | 20th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
-| Blur Exchange | 1H | 21st | Code4rena | [Profile](https://code4rena.com/@bardamu) |
-| Backd Tokenomics | — | 30th | Code4rena | [Profile](https://code4rena.com/@bardamu) |
-
-> Additional protocols secured: **Connext**, **Fractional**, **Yieldy**, **Axelar Network**, **Golom**.
-
-<h3 align="left">🔍 Vulnerability Breakdown</h3>
-
-```
-Total Valid Findings: 7
-├── High Risk:   4
-├── Medium Risk: 3
-└── Low Risk:    0
-```
 
 <h3 align="left">🎯 Areas of Expertise</h3>
 
