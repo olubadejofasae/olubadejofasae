@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working at **Kukulcan**
 
-- 🛡️ I audit smart contracts as a warden on **Code4rena** — [@bardamu](https://code4rena.com/@bardamu)
+- 🛡️ I audit smart contracts 
 
 - 🌱 I'm currently learning **Rust**
 
