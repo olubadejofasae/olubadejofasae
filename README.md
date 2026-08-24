@@ -32,12 +32,6 @@
       </a>
       <br> LinkedIn
     </td>
-    <td align="center" width="80">
-      <a href="https://code4rena.com/@bardamu" target="blank">
-        <img align="center" src="https://code4rena.com/logos/c4/c4-logo.svg" alt="bardamu" height="30" width="40" />
-      </a>
-      <br> Code4rena
-    </td>
   </tr>
 </table>
 
